@@ -1,4 +1,2 @@
-Jadi gini ini teh, mengenai NLTK lah pokonya
-edit dikit gan
-edit lagi dan lagi
-diedit di git
+Tutorial dasar mengenai NLTK 
+diedit dikit gan
